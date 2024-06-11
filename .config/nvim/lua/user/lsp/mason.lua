@@ -2,6 +2,14 @@ local servers = {
   "lua_ls",
 	"pyright",
 	"jsonls",
+	"cssls",
+	"html",
+	"tsserver",
+	"pyright",
+	"bashls",
+	"yamlls",
+	"ltex",
+	"rust_analyzer",
 }
 
 local settings = {
