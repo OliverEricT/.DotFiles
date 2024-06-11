@@ -2484,4 +2484,3 @@ font_size 11
 #: }}}
 
 include /home/erk/.config/kitty/themes/gruvbox/gruvbox_dark_hard.conf
-
