@@ -31,9 +31,12 @@
 .steam*
 .wget-hsts
 .xsession*
+.viminfo
+Desktop/*
 Documents/*
 Downloads/*
 Games/*
+Music/*
 Pictures/*
 dunst-tester.sh
 music/*
@@ -52,14 +55,17 @@ repos/*
 .config/chromium/*
 .config/dconf/*
 .config/discord/*
+.config/feishin/*
 .config/godot/*
 .config/gtk*/*
 .config/mime*
 .config/pulse/*
 .config/pavu*
 .config/quodlibet/*
+.config/qmk/*
 .config/startup/*
 .config/sublime-music/*
+.config/supersonic/*
 .config/systemd/*
 .config/user*
 
